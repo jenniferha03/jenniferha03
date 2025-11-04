@@ -17,13 +17,10 @@ About Me 💻
 
 📚 Currently mastering advanced React Hooks and PostgreSQL query optimization.
 
-Working on: 💡
-
-Transforming my Smark platform into a full microservices architecture.
+Working on 💡
 
 Deep diving into Docker and containerization for easier deployment.
 
-Exploring best practices for Authentication & Authorization in Django REST Framework.
 
 My Resume
 
@@ -44,4 +41,4 @@ View my resume here.
 ### Cloud & DevOps Tools
 | AWS | Firebase | Git | Postman | GitLab | Vercel | Docker |
 |----------|----------|----------|--------|--------|--------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS"  alt="AWS" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" title="Firebase"  alt="Firebase" width="55" height="55"/> | <img src="
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS"  alt="AWS" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" title="Firebase"  alt="Firebase" width="55" height="55"/> | 
