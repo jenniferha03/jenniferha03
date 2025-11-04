@@ -21,11 +21,6 @@ Working on 💡
 
 Deep diving into Docker and containerization for easier deployment.
 
-
-My Resume
-
-View my resume here.
-
 <div align="center">
     
 ### Core Languages
