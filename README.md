@@ -98,9 +98,9 @@ Deep diving into **Docker** and containerization for easier deployment.
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=jenniferha03&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img src="https://readme-stats-github.vercel.app/api?username=jenniferha03&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 <br /><br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jenniferha03&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img src="https://readme-stats-github.vercel.app/api/top-langs?username=jenniferha03&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 </div>
 
