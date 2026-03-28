@@ -1,4 +1,4 @@
-# Hi there, I'm Jennifer Ha <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ <h1 align="center"><b>Hi , I'm Jennifer Ha </b><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1>
 
 <br/><p align="center">
   <a href="YOUR_LINKEDIN_URL" target="_blank">
