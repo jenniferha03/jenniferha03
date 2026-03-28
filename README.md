@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTdvNW5vNXpleG4wM24xODZ4ZnEyYXQ4b24yeWEyOW5wcHo1aDl6NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5quAQha5cHPayUytEh/giphy.gif" width="160" alt="Waving Minion"/>&emsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Sour+Gummy&weight=700&size=55&pause=1000&color=F2ACC6&vCenter=true&width=650&height=60&lines=Hi+there%2C+I%27m+Jennifer+Ha" alt="Typing SVG" /></a></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTdvNW5vNXpleG4wM24xODZ4ZnEyYXQ4b24yeWEyOW5wcHo1aDl6NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5quAQha5cHPayUytEh/giphy.gif" width="140" alt="Waving Minion"/>&emsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Sour+Gummy&weight=700&size=50&pause=1000&color=F2ACC6&vCenter=true&width=600&height=60&lines=Hi+there%2C+I%27m+Jennifer+Ha" alt="Typing SVG" /></a></h1>
 
 
 <p align="center">
