@@ -15,7 +15,7 @@
   </a>
 </p>
 
-## 👨‍💻 About Me
+## 👩🏻‍💻 About Me
 
 - 🚀 Focused on **Backend & Full-Stack Development** using Python, React, and serverless architectures.
 - ⚙️ Skilled in building and automating **Data Pipelines** and **CI/CD** processes (GitLab, AWS).
