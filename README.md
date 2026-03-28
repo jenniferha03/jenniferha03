@@ -1,7 +1,7 @@
  <h1 align="center"><b>✨ Hi there, I'm Jennifer Ha </b><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1>
 
-<br/><p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+<p align="center">
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/khue-jennifer-ha/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
@@ -15,22 +15,24 @@
   </a>
 </p>
 
-## 👩🏻‍💻 About Me
+---
+
+## About Me 👩🏻‍💻
 
 - 🚀 Focused on **Backend & Full-Stack Development** using Python, React, and serverless architectures.
 - ⚙️ Skilled in building and automating **Data Pipelines** and **CI/CD** processes (GitLab, AWS).
 - 🧠 Interested in **System Performance Engineering** (I/O, High-Performance Computing).
 - 📚 Currently mastering advanced **React Hooks** and **PostgreSQL** query optimization.
 
-## 💡 Working on  
+## Working on 💡
 Deep diving into **Docker** and containerization for easier deployment.
 
 
 ---
 
-## 💻 Skills & Technologies <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
+## Skills & Technologies <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
 
-### Languages
+### Languages 🔮
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -44,7 +46,7 @@ Deep diving into **Docker** and containerization for easier deployment.
   <img src="https://img.shields.io/badge/Assembly-6E7681?style=for-the-badge" alt="Assembly"/>
 </p>
 
-### Libraries & Frameworks
+### Libraries & Frameworks 🎀
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
@@ -63,7 +65,7 @@ Deep diving into **Docker** and containerization for easier deployment.
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </p>
 
-### Databases & Cloud
+### Databases & Cloud ☁️
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -75,7 +77,7 @@ Deep diving into **Docker** and containerization for easier deployment.
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
 </p>
 
-### DevOps & Tools
+### DevOps & Tools 🌷
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
