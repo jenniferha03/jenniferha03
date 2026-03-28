@@ -20,13 +20,13 @@
 
 ## About Me 👩🏻‍💻
 
-- 🌱 Focused on **Backend & Full-Stack Development** using Python, React, and serverless architectures.
-- 🪄 Skilled in building and automating **Data Pipelines** and **CI/CD** processes (GitLab, AWS).
-- 🌊 Interested in **System Performance Engineering** (I/O, High-Performance Computing).
-- 🍵 Currently mastering advanced **React Hooks** and **PostgreSQL** query optimization.
+- 🌱 Focused on **Backend & Full-Stack Development** using Python, React, and serverless architectures
+- 🪄 Skilled in building and automating **Data Pipelines** and **CI/CD** processes (GitLab, AWS)
+- 🌊 Interested in **System Performance Engineering** (I/O, High-Performance Computing)
+- 🍵 Currently mastering advanced **React Hooks** and **PostgreSQL** query optimization
 
 ### Working on 💻
-- Deep diving into **Docker** and containerization for easier deployment.
+- Deep diving into **Docker** and containerization for easier deployment
 
 ---
 
