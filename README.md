@@ -96,14 +96,13 @@
 
 ---
 
-<div align="center">
+## My GitHub Stats 💫
 
-### GitHub Stats 💫
+<div align="center">
 
 <img src="https://readme-stats-github.vercel.app/api?username=jenniferha03&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 <br /><br />
 <img src="https://readme-stats-github.vercel.app/api/top-langs?username=jenniferha03&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 </div>
-
 
