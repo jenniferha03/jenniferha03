@@ -1,4 +1,5 @@
- <h1 align="center"><b>Hi there, I'm Jennifer Ha </b><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h2>
+<h1 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTdvNW5vNXpleG4wM24xODZ4ZnEyYXQ4b24yeWEyOW5wcHo1aDl6NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5quAQha5cHPayUytEh/giphy.gif" width="140" alt="Waving Minion"/>&emsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Open+Sans&weight=700&size=45&pause=1000&color=F2ACC6&vCenter=true&width=600&height=60&lines=Hi+there%2C+I%27m+Jennifer+Ha" alt="Typing SVG" /></a></h1>
+
 
 <p align="center">
   <a href="https://jenniferha03.github.io/jennifer-ha-portfolio" target="_blank">
@@ -97,11 +98,12 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
+### GitHub Stats 💫
 
 <img src="https://readme-stats-github.vercel.app/api?username=jenniferha03&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 <br /><br />
 <img src="https://readme-stats-github.vercel.app/api/top-langs?username=jenniferha03&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 </div>
+
 
