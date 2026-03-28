@@ -22,15 +22,13 @@
 - 🧠 Interested in **System Performance Engineering** (I/O, High-Performance Computing).
 - 📚 Currently mastering advanced **React Hooks** and **PostgreSQL** query optimization.
 
-**Working on 💡**  
+## 💡 Working on  
 Deep diving into **Docker** and containerization for easier deployment.
 
 
 ---
 
 ## 💻 Skills & Technologies <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
-
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top languages" />
 
 ### Languages
 
@@ -100,8 +98,9 @@ Deep diving into **Docker** and containerization for easier deployment.
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=jenniferha03&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 <br /><br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jenniferha03&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 </div>
+
