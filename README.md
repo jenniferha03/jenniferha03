@@ -25,24 +25,6 @@
 **Working on 💡**  
 Deep diving into **Docker** and containerization for easier deployment.
 
-### 🚀 Experience
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" align="center" valign="top"><b>IpserLab</b><br/><i>Software Engineer Intern</i><br/>Video Conference Platform · Remote<br/><i>Mar 2026 – Present</i></td>
-<td width="33%" align="center" valign="top"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/FPT_logo.svg/200px-FPT_logo.svg.png" width="100" alt="FPT"/><br/><b>FPT Software</b><br/><i>Software Engineer Intern · Team Lead</i><br/>NRC Health (Patient Insights) · Remote<br/><i>Jun 2025 – Sep 2025</i></td>
-<td width="33%" align="center" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Schneider_Electric_logo.svg/240px-Schneider_Electric_logo.svg.png" width="100" alt="Schneider"/><br/><b>Schneider Electric</b><br/><i>Research Assistant</i><br/>Digital Power & EcoStruxure Analytics · Nashville, TN<br/><i>Jun 2024 – Aug 2024</i></td>
-</tr>
-<tr>
-<td width="33%" align="center" valign="top"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Argonne_National_Laboratory_Logo.svg/200px-Argonne_National_Laboratory_Logo.svg.png" width="100" alt="Argonne"/><br/><b>Argonne National Laboratory</b><br/><i>Software Engineer Intern</i><br/>ALCF DLIO Benchmarking · Lemont, IL<br/><i>Jan 2024 – Apr 2024</i></td>
-<td width="33%" align="center" valign="top"><b>North Central College</b><br/><i>Computer Science Teaching Assistant</i><br/>Naperville, IL<br/><i>Aug 2023 – Dec 2025</i></td>
-<td width="33%" align="center" valign="top"><b>Highlights</b><br/>Hackathon builds (<b>Empathy Journal</b>), team lead on <b>DeepWrite</b> &amp; <b>Smark</b>, <b>Python</b> / <b>React</b> / <b>AWS</b> / <b>ML</b> pipelines</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
