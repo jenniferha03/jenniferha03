@@ -1,32 +1,31 @@
- <h1 align="center"><b>✨ Hi there, I'm Jennifer Ha </b><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1>
+ <h1 align="center"><b>Hi there, I'm Jennifer Ha </b><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h2>
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/khue-jennifer-ha/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://jenniferha03.github.io/jennifer-ha-portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-F2ACC6?style=for-the-badge&logo=googlechrome&logoColor=402B26" alt="Portfolio"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/jenniferha03" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://www.linkedin.com/in/khue-jennifer-ha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:bichkhueha@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-F2ACBF?style=for-the-badge&logo=gmail&logoColor=402B26&labelColor=FFC2D1" alt="Gmail"/>
   </a>
 </p>
 
-୨୧ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ୨୧
+---
 
 ## About Me 👩🏻‍💻
 
-- 🚀 Focused on **Backend & Full-Stack Development** using Python, React, and serverless architectures.
-- ⚙️ Skilled in building and automating **Data Pipelines** and **CI/CD** processes (GitLab, AWS).
-- 🧠 Interested in **System Performance Engineering** (I/O, High-Performance Computing).
-- 📚 Currently mastering advanced **React Hooks** and **PostgreSQL** query optimization.
+- 🌱 Focused on **Backend & Full-Stack Development** using Python, React, and serverless architectures.
+- 🪄 Skilled in building and automating **Data Pipelines** and **CI/CD** processes (GitLab, AWS).
+- 🌊 Interested in **System Performance Engineering** (I/O, High-Performance Computing).
+- 🍵 Currently mastering advanced **React Hooks** and **PostgreSQL** query optimization.
 
-## Working on 💡
-Deep diving into **Docker** and containerization for easier deployment.
-
+### Working on 💻
+- Deep diving into **Docker** and containerization for easier deployment.
 
 ---
 
